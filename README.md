@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **FrontEnd Frameworks**
 
-- 💬 Ask me about **React , Nextjs**
+- 💬 Ask me about **React , Nextjs** & Frontend Development**
 
 - 📫 How to reach me **rtrjswnn@gmail.com , 8093225488**
 
